@@ -34,28 +34,3 @@ Este repositório tem como objetivo:
 
 ---
 
-## 📂 Estrutura de Pastas
-
-\`\`\`
-aprendizado_py/
-├── algoritmos/
-│   └── exercicios/
-├── web/
-│   ├── html/
-│   └── css/
-├── certificados/
-│   └── *.pdf
-\`\`\`
-
----
-
-## 💡 Como contribuir
-
-Se você é estudante ou entusiasta da área e quiser sugerir melhorias ou compartilhar ideias, fique à vontade para abrir uma issue ou enviar um pull request!
-
----
-
-## 📬 Contato
-
-Caso queira trocar ideias ou tirar dúvidas, você pode me encontrar no GitHub: [@nataliagilles](https://github.com/nataliagilles)
-EOF
